@@ -2,14 +2,14 @@
 
 This project predicts rainfall occurrence using machine learning techniques. The goal is to analyze weather-related data, preprocess it, and train a model to classify whether it will rain based on input features.
 
-* View the Project
-
+* <a href="https://github.com/Dharani1202/Rainfall_Prediction_using---Machine-Learning/blob/main/ML%20%20Rain_Project.ipynb"> View the Project </a>
+---
 ## About
 
 The project uses a dataset containing weather parameters such as temperature, humidity, wind speed, and rainfall measurements to predict rainfall. The workflow covers data cleaning, preprocessing, feature engineering, model training, and evaluation.
 
 All analyses are performed in **Jupyter Notebook** for step-by-step execution.
-
+---
 ## Tools & Technologies Used
 
 * **Python (3.x)**
@@ -19,7 +19,7 @@ All analyses are performed in **Jupyter Notebook** for step-by-step execution.
 * **scikit-learn (sklearn)** – for preprocessing, modeling, and evaluation
 * **SMOTE (from imbalanced-learn)** – to balance the dataset
 * **Jupyter Notebook** – for interactive analysis
-
+---
 ## Data Cleaning & Preprocessing
 
 1. **Handle Missing Values and Duplicates**
@@ -51,7 +51,7 @@ All analyses are performed in **Jupyter Notebook** for step-by-step execution.
 7. **Train-Test Split**
 
    * Split the dataset into training and testing sets using `train_test_split`.
-
+---
 ## Modeling & Evaluation
 
 1. **Model Used**
@@ -72,17 +72,17 @@ All analyses are performed in **Jupyter Notebook** for step-by-step execution.
 4. **Cross-Validation**
 
    * Applied **K-Fold Cross Validation** to validate model generalization using `cross_val_score`.
-
+---
 ## Key Insights
 
 * Data cleaning, outlier removal, and scaling improved the model’s prediction performance.
 * Balancing the dataset using SMOTE prevented bias in predictions.
 * Logistic Regression effectively classified rainfall occurrence with reliable metrics.
 * Label encoding of categorical variables ensured model compatibility and improved feature processing.
-
+---
 ## Conclusion
 
 This project demonstrates an end-to-end machine learning workflow for rainfall prediction: from cleaning and preprocessing data, handling outliers, scaling, and balancing the dataset to training, evaluating, and validating a predictive model.
 
-
+* <a href="https://github.com/Dharani1202/Rainfall_Prediction_using---Machine-Learning/blob/main/ML%20%20Rain_Project.ipynb"> View the Project </a>
 
